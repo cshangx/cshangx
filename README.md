@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cshangx, a junior in HS
+- 👋 Hi, I’m @cshangx, a senior in HS
 - 👀 I’m interested in learning programming as well as incorporating them into STEM subjects like chemistry
 - 🌱 I’m currently learning how to put art and science together
 - 💞️ I’m looking to collaborate on any possible tech/art/science fair ideas
